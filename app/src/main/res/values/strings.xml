@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Contact</string>
+    <string name="contact">Mobile Number</string>
+    <string name="from_contacts">Search</string>
+    <string name="sendButtonLabel">Send</string>
+    <string name="settings_name">Settings</string>
+    <string name="settings_shortname">Settings</string>
+    <string name="about_name">About TabbyText</string>
+    <string name="settings_accel">P</string>
+    <string name="about_shortname">About</string>
+    <string name="about_text">
+    TabbyText - the one truly purr-fect SMS Text sender for Android Tablets.
+    TabbyText is a trademark of RejmiNet Group Inc.
+    </string>
+    <string name="about_done_button_label">Done</string>
+</resources>
